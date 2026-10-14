@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384942027938",
+    "project_id": "apoteker-diabetes",
+    "storage_bucket": "apoteker-diabetes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384942027938:android:fc81952ff663e7992d93fb",
+        "android_client_info": {
+          "package_name": "com.example.admindiabetes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMP0ypzlFRPCY0uoa8qvpncHQ_xweIvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
